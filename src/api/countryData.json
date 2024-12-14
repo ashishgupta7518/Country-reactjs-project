@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 26000000,
+      "interestingFact": "Australia is home to more kangaroos than people."
+    },
+    {
+      "id": 2,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": 125800000,
+      "interestingFact": "Japan has more vending machines than any other country in the world, approximately 5 million."
+    },
+    {
+      "id": 3,
+      "countryName": "Iceland",
+      "capital": "Reykjavik",
+      "population": 372000,
+      "interestingFact": "Iceland has no mosquitoes despite its diverse natural environment."
+    },
+    {
+      "id": 4,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1426000000,
+      "interestingFact": "India is the largest producer of milk in the world."
+    },
+    {
+      "id": 5,
+      "countryName": "Egypt",
+      "capital": "Cairo",
+      "population": 109300000,
+      "interestingFact": "The Pyramids of Giza are the only remaining Wonder of the Ancient World."
+    },
+    {
+      "id": 6,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "population": 216400000,
+      "interestingFact": "Brazil is home to the Amazon Rainforest, which produces 20% of the world’s oxygen."
+    },
+    {
+      "id": 7,
+      "countryName": "Norway",
+      "capital": "Oslo",
+      "population": 5400000,
+      "interestingFact": "Norway is known as the 'Land of the Midnight Sun' because certain areas have sunlight 24 hours a day during summer."
+    },
+    {
+      "id": 8,
+      "countryName": "China",
+      "capital": "Beijing",
+      "population": 1412000000,
+      "interestingFact": "The Great Wall of China is the longest wall in the world, stretching over 13,000 miles."
+    },
+    {
+      "id": 9,
+      "countryName": "South Africa",
+      "capital": "Pretoria (administrative), Bloemfontein (judicial), Cape Town (legislative)",
+      "population": 61000000,
+      "interestingFact": "South Africa has three capital cities, each serving a different purpose."
+    },
+    {
+      "id": 10,
+      "countryName": "France",
+      "capital": "Paris",
+      "population": 68000000,
+      "interestingFact": "The Eiffel Tower can be 15 cm taller during summer due to thermal expansion."
+    }
+  ]
+  
